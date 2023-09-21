@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"cts:sum": "ts-node cts/index.cts",
-		"mts:sum": "ts-node mts/index.ts"
+		"mts:sum": "ts-node mts/index.ts",
+		"os-info": "ts-node native-modules/os-info.ts"
 	},
 	"keywords": [],
 	"author": "",
